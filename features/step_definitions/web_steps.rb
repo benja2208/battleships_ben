@@ -221,13 +221,3 @@ end
 Then(/^I should have the name saved$/) do
   expect(name).to eq params[:name]
 end
-
-
-# (/^I don't fill in "name"$/) do
-#   expect(name).to eq nil
-# end
-
-
-
-
-
