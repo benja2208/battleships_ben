@@ -228,7 +228,6 @@ end
 # end
 
 
-# Then(/^it should fail with "Please enter your name"$/) do 
-#    expect(page).to have_content("Please enter your name")
-# end
+
+
 
